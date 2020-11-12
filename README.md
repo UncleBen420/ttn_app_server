@@ -1,3 +1,10 @@
+# Goal:
+
+This project as for goal to retrieve data from ttn (the things networks) and store them in a sql database. it will also provide a web interface to manage the ttn applications.
+
+
+#base project:
+
 # Retrieve sensor data from The Things Network and store it in a database
 
 This repository contains examples how to retrieve sensor data from The Things Network and how to store the sensor data in a database.
